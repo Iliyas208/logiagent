@@ -1,0 +1,10 @@
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+SQLAlchemy==2.1.9
+anthropic==2.14.0
+stripe==17.1.0
+python-dotenv==1.2.4
+pydantic==2.14.4
+# tests
+pytest==9.2.0
+httpx==0.28.1

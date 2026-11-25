@@ -22,3 +22,6 @@ dist/
 *.pkl
 *.joblib
 ml/data/raw/
+
+# Local database
+*.db
